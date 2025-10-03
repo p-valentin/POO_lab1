@@ -1,0 +1,14 @@
+/Users/valentinpirva/RiderProjects/lab1/lab1/bin/Debug/net9.0/lab1
+/Users/valentinpirva/RiderProjects/lab1/lab1/bin/Debug/net9.0/lab1.deps.json
+/Users/valentinpirva/RiderProjects/lab1/lab1/bin/Debug/net9.0/lab1.runtimeconfig.json
+/Users/valentinpirva/RiderProjects/lab1/lab1/bin/Debug/net9.0/lab1.dll
+/Users/valentinpirva/RiderProjects/lab1/lab1/bin/Debug/net9.0/lab1.pdb
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/lab1.AssemblyInfoInputs.cache
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/lab1.AssemblyInfo.cs
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/lab1.csproj.CoreCompileInputs.cache
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/lab1.dll
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/refint/lab1.dll
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/lab1.pdb
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/lab1.genruntimeconfig.cache
+/Users/valentinpirva/RiderProjects/lab1/lab1/obj/Debug/net9.0/ref/lab1.dll
